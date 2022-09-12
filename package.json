@@ -1,0 +1,16 @@
+{
+  "name": "ฺBETFLIK24",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "Betflik24 ทางเข้าสมัคร สล็อตรวมค่าย เบทฟิก24",
+  "keywords": [
+    "BETFLIK24",
+    "BETFLIK" ,
+    "สมัครBETFLIK24"
+  ],
+  "repository": "https://github.com/Racingjackjack/ฺBETFLIK24",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
